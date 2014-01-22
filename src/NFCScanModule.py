@@ -23,7 +23,6 @@ import urllib2
 
 def send_json(uid):
     
-    
     data = {
             'uid': uid
     }
